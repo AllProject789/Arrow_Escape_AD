@@ -1,0 +1,3607 @@
+{
+ "repeatLevelsFrom": 107,
+ "campaign": [
+  {
+   "loseCondition": 0,
+   "value": 5,
+   "difficulty": 0,
+   "name": "Level_1_json"
+  },
+  {
+   "loseCondition": 0,
+   "value": 6,
+   "difficulty": 0,
+   "name": "Level_643_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 4,
+   "difficulty": 0,
+   "name": "Level_644_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 5,
+   "difficulty": 0,
+   "name": "Level_645_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 8,
+   "difficulty": 0,
+   "name": "Level_647_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 5,
+   "difficulty": 0,
+   "name": "Level_646_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 6,
+   "difficulty": 0,
+   "name": "Level_101_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 6,
+   "difficulty": 0,
+   "name": "Level_649_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_115_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 2,
+   "difficulty": 1,
+   "name": "Level_6_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_14_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_199_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_648_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_8_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 2,
+   "name": "Level_542_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_13_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_630_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_31_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_1_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 1,
+   "difficulty": 1,
+   "name": "Level_103_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_218_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_36_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_510_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_9_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 1,
+   "difficulty": 2,
+   "name": "Level_104_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_11_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_12_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_106_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_21_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 0,
+   "difficulty": 2,
+   "name": "Level_371_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_32_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_33_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_242_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 1,
+   "difficulty": 1,
+   "name": "Level_105_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_27_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_56_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_272_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 1,
+   "name": "Level_282_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_102_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_55_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_58_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 0,
+   "difficulty": 2,
+   "name": "Level_108_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 1,
+   "difficulty": 0,
+   "name": "Level_136_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_63_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_274_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_80_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_73_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 1,
+   "difficulty": 1,
+   "name": "Level_109_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_37_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_116_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 1,
+   "difficulty": 0,
+   "name": "Level_220_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 0,
+   "difficulty": 2,
+   "name": "Level_110_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_76_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_195_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_244_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 1,
+   "difficulty": 1,
+   "name": "Level_192_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_60_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_114_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_137_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_85_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_204_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_93_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 1,
+   "difficulty": 1,
+   "name": "Level_131_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_83_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_247_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_75_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_248_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_71_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_94_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_86_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 0,
+   "difficulty": 2,
+   "name": "Level_138_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_214_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_91_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 1,
+   "difficulty": 1,
+   "name": "Level_200_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_74_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_72_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_271_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 1,
+   "difficulty": 1,
+   "name": "Level_212_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_135_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_443_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_90_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_95_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 1,
+   "difficulty": 1,
+   "name": "Level_133_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_278_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_219_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_100_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 1,
+   "difficulty": 1,
+   "name": "Level_139_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_140_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_79_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_198_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_130_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_122_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_92_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 0,
+   "difficulty": 2,
+   "name": "Level_283_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_164_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_216_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_124_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 1,
+   "difficulty": 1,
+   "name": "Level_364_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 0,
+   "difficulty": 0,
+   "name": "Level_245_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 0,
+   "difficulty": 2,
+   "name": "Level_243_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_77_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_155_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_157_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_223_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 0,
+   "difficulty": 2,
+   "name": "Level_197_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_7_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_141_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_315_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_117_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 0,
+   "difficulty": 2,
+   "name": "Level_329_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_642_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_96_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_144_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_213_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 1,
+   "difficulty": 1,
+   "name": "Level_324_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_61_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_246_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_161_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_97_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 1,
+   "difficulty": 1,
+   "name": "Level_581_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_163_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_423_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_159_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 1,
+   "difficulty": 1,
+   "name": "Level_501_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_98_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_231_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_120_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_217_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_237_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 0,
+   "difficulty": 2,
+   "name": "Level_287_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_207_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_88_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_128_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_193_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_112_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 1,
+   "difficulty": 1,
+   "name": "Level_447_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_322_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_99_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_175_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 0,
+   "difficulty": 2,
+   "name": "Level_162_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_152_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_346_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 1,
+   "difficulty": 1,
+   "name": "Level_107_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 0,
+   "difficulty": 0,
+   "name": "Level_225_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_429_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 1,
+   "difficulty": 1,
+   "name": "Level_156_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_461_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 1,
+   "difficulty": 1,
+   "name": "Level_169_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_178_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 0,
+   "difficulty": 2,
+   "name": "Level_224_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_232_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_2_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_125_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_374_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 1,
+   "difficulty": 1,
+   "name": "Level_126_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_174_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_4_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_628_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_211_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 0,
+   "difficulty": 2,
+   "name": "Level_562_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_641_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_323_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_84_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_273_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 0,
+   "difficulty": 2,
+   "name": "Level_486_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_165_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 1,
+   "difficulty": 1,
+   "name": "Level_275_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_408_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_78_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 1,
+   "difficulty": 1,
+   "name": "Level_570_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_250_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_352_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 1,
+   "difficulty": 1,
+   "name": "Level_450_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_409_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 2,
+   "name": "Level_249_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_81_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_191_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_289_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_577_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 0,
+   "difficulty": 2,
+   "name": "Level_215_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_382_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_132_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 1,
+   "difficulty": 1,
+   "name": "Level_410_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_153_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_286_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 0,
+   "difficulty": 2,
+   "name": "Level_235_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_127_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_625_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_158_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_449_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_179_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_228_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 1,
+   "difficulty": 1,
+   "name": "Level_561_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_241_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_238_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_590_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 1,
+   "difficulty": 1,
+   "name": "Level_234_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_485_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_145_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 0,
+   "difficulty": 2,
+   "name": "Level_298_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_180_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_5_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_194_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_203_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 1,
+   "difficulty": 1,
+   "name": "Level_468_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_113_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_524_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_629_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_563_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 1,
+   "difficulty": 1,
+   "name": "Level_528_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_143_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 1,
+   "difficulty": 1,
+   "name": "Level_123_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_483_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_529_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_3_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_239_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_549_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_142_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 0,
+   "difficulty": 2,
+   "name": "Level_484_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_236_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_229_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 1,
+   "difficulty": 1,
+   "name": "Level_134_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_171_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 0,
+   "difficulty": 2,
+   "name": "Level_425_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_221_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_465_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_325_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_460_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 1,
+   "difficulty": 1,
+   "name": "Level_469_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_185_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_345_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 1,
+   "difficulty": 1,
+   "name": "Level_627_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_621_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 1,
+   "difficulty": 1,
+   "name": "Level_586_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_313_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_520_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_146_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_538_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 1,
+   "difficulty": 1,
+   "name": "Level_361_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_155_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_150_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 1,
+   "difficulty": 1,
+   "name": "Level_151_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_587_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_147_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_119_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_502_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 1,
+   "difficulty": 1,
+   "name": "Level_160_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_605_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 0,
+   "difficulty": 2,
+   "name": "Level_602_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_310_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_189_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_222_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_339_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 1,
+   "difficulty": 1,
+   "name": "Level_608_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_606_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 1,
+   "difficulty": 1,
+   "name": "Level_622_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_588_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 0,
+   "difficulty": 2,
+   "name": "Level_470_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_582_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_196_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_564_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 1,
+   "difficulty": 1,
+   "name": "Level_118_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_567_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 0,
+   "difficulty": 2,
+   "name": "Level_489_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_576_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 1,
+   "difficulty": 1,
+   "name": "Level_281_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_285_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_201_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 0,
+   "difficulty": 2,
+   "name": "Level_467_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_303_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_504_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_488_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_172_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_603_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_369_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_604_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 1,
+   "difficulty": 1,
+   "name": "Level_546_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_548_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 0,
+   "difficulty": 2,
+   "name": "Level_359_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_276_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_277_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_278_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_279_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_280_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 1,
+   "difficulty": 1,
+   "name": "Level_281_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_282_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_283_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_284_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 0,
+   "difficulty": 2,
+   "name": "Level_285_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_286_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_287_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_288_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_289_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 1,
+   "difficulty": 1,
+   "name": "Level_290_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_291_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_292_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_293_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_294_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 0,
+   "difficulty": 2,
+   "name": "Level_295_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_296_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_297_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_298_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_299_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 1,
+   "difficulty": 1,
+   "name": "Level_300_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_301_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_302_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_303_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_304_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_305_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 1,
+   "difficulty": 1,
+   "name": "Level_306_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_307_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_308_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_309_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_310_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 1,
+   "difficulty": 1,
+   "name": "Level_311_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 0,
+   "difficulty": 2,
+   "name": "Level_312_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_313_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_314_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 0,
+   "difficulty": 2,
+   "name": "Level_315_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_316_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_317_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_318_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_319_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 1,
+   "difficulty": 1,
+   "name": "Level_320_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_321_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_322_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_323_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_324_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 0,
+   "difficulty": 2,
+   "name": "Level_325_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_326_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_327_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_328_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_329_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 1,
+   "difficulty": 1,
+   "name": "Level_330_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_331_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_332_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_333_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_334_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 0,
+   "difficulty": 2,
+   "name": "Level_335_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_336_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_337_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_338_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_339_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_340_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 1,
+   "difficulty": 1,
+   "name": "Level_341_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_342_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_343_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_344_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 0,
+   "difficulty": 2,
+   "name": "Level_345_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_346_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_347_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_348_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_349_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_350_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 0,
+   "difficulty": 2,
+   "name": "Level_351_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_352_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_353_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_354_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 0,
+   "difficulty": 2,
+   "name": "Level_355_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_356_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 1,
+   "difficulty": 1,
+   "name": "Level_357_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_358_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_359_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 1,
+   "difficulty": 1,
+   "name": "Level_360_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_361_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_362_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_363_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_364_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 0,
+   "difficulty": 2,
+   "name": "Level_365_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_366_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_367_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_368_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_369_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 1,
+   "difficulty": 1,
+   "name": "Level_370_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_371_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_372_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_373_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_374_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 0,
+   "difficulty": 2,
+   "name": "Level_375_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_376_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_377_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_378_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_379_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 1,
+   "difficulty": 1,
+   "name": "Level_380_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_381_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_382_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_383_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_384_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_385_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_386_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 1,
+   "difficulty": 1,
+   "name": "Level_387_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_388_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_389_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 1,
+   "difficulty": 1,
+   "name": "Level_390_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_391_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_392_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_393_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_394_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 0,
+   "difficulty": 2,
+   "name": "Level_395_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_396_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_397_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_398_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_399_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 1,
+   "difficulty": 1,
+   "name": "Level_400_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_401_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_402_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_403_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_404_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 0,
+   "difficulty": 2,
+   "name": "Level_405_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_406_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_407_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_408_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_409_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 1,
+   "difficulty": 1,
+   "name": "Level_410_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_411_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_412_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_413_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_414_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 0,
+   "difficulty": 2,
+   "name": "Level_415_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_416_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_417_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_418_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_419_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_420_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 1,
+   "difficulty": 1,
+   "name": "Level_421_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_422_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_423_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_424_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 0,
+   "difficulty": 2,
+   "name": "Level_425_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_426_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_427_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_428_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 1,
+   "difficulty": 1,
+   "name": "Level_429_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_430_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_431_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_432_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_433_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_434_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 0,
+   "difficulty": 0,
+   "name": "Level_435_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_436_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_437_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_438_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_439_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_440_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 1,
+   "difficulty": 1,
+   "name": "Level_441_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_442_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_443_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_444_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_445_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_446_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 1,
+   "difficulty": 1,
+   "name": "Level_447_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_448_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 0,
+   "difficulty": 2,
+   "name": "Level_449_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_450_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_451_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_452_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_453_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_454_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_455_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_456_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_457_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_458_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_459_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_460_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_461_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_463_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_464_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_465_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_466_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 1,
+   "difficulty": 1,
+   "name": "Level_467_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_468_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_469_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_470_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_471_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_472_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_473_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_474_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_475_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_476_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_477_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_478_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_479_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_480_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 0,
+   "difficulty": 2,
+   "name": "Level_481_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_482_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_483_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_484_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_485_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_486_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_487_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_488_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 0,
+   "difficulty": 2,
+   "name": "Level_489_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_490_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_491_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_492_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_493_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 0,
+   "difficulty": 2,
+   "name": "Level_494_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_495_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_496_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_497_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_498_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_499_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_500_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 1,
+   "difficulty": 1,
+   "name": "Level_501_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_502_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 1,
+   "difficulty": 1,
+   "name": "Level_503_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_504_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_505_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_506_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 1,
+   "difficulty": 1,
+   "name": "Level_507_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_508_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_509_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_510_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 1,
+   "difficulty": 1,
+   "name": "Level_511_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_512_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_513_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_514_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_515_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_516_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_517_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_518_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_519_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_520_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_521_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 1,
+   "difficulty": 1,
+   "name": "Level_522_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_523_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_524_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 1,
+   "difficulty": 1,
+   "name": "Level_525_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_526_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_527_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_528_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_529_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 0,
+   "difficulty": 2,
+   "name": "Level_530_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_531_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_532_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_533_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_534_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 0,
+   "difficulty": 0,
+   "name": "Level_535_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_536_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_537_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_538_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_539_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_540_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_541_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 1,
+   "difficulty": 1,
+   "name": "Level_542_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_543_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 1,
+   "difficulty": 1,
+   "name": "Level_544_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_545_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_546_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_547_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_548_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_549_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 1,
+   "difficulty": 1,
+   "name": "Level_550_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_551_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_552_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_554_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_555_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_556_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_557_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_558_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_559_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 1,
+   "difficulty": 1,
+   "name": "Level_560_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_561_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 0,
+   "difficulty": 2,
+   "name": "Level_562_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_563_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_564_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_565_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 0,
+   "difficulty": 2,
+   "name": "Level_566_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_567_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_568_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 1,
+   "difficulty": 1,
+   "name": "Level_569_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_570_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_571_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_572_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_573_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_574_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_575_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_576_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_577_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_578_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_581_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_582_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 1,
+   "difficulty": 1,
+   "name": "Level_583_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_584_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_585_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 1,
+   "difficulty": 1,
+   "name": "Level_586_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_587_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_588_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_589_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_590_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_601_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 0,
+   "difficulty": 2,
+   "name": "Level_602_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_603_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 1,
+   "difficulty": 1,
+   "name": "Level_604_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_605_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_606_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_607_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 0,
+   "difficulty": 2,
+   "name": "Level_197_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_7_HM"
+  },
+  {
+   "loseCondition": 0,
+   "value": 3,
+   "difficulty": 0,
+   "name": "Level_141_HM"
+  }
+ ],
+ "bossLevels": [],
+ "goldenLevels": []
+}
